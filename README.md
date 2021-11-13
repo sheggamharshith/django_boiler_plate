@@ -1,2 +1,2 @@
-# django_boiler_plate
+# Django Boiler Plate
 bolier plate for django  
